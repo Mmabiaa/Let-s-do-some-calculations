@@ -23,7 +23,7 @@ A simple calculator application built using Python and Tkinter. This application
 1. Clone the repository:
 
     bash
-    git clone https://github.com/yourusername/calculator.git
+    git clone https://github.com/Mmabiaa/Let-s-do-some-calculations
     
 
 2. Navigate to the project directory:
@@ -60,6 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - Boateng Prince Agyenim- [mmabiaa](https://github.com/mmabiaa)
+- Email [isbbydior@gmail.com]
 
 ## Acknowledgments
 

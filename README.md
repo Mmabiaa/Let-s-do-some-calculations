@@ -9,6 +9,8 @@ A simple calculator application built using Python and Tkinter. This application
 - Subtraction
 - Multiplication
 - Division
+- Trignometry
+- And other mathematical operations 
 - User-friendly graphical interface
 
 ## Getting Started

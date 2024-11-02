@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import messagebox
 import math
 
-# Instance Of the class Tk() / Creating an object for the class Tk()
+# Instance Of the class Tk()
 root = Tk()
 
 # Window Customization

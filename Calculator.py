@@ -7,7 +7,7 @@ import math
 root = Tk()
 
 # Window Customization
-root.title("Simple Calculator By Group 10") # Title
+root.title("Simple Calculator -Mmabiaa") # Title
 root.geometry("600x700") # Size of the application
 root.resizable(True, True) # Both Resizable True to allow user to resize the app 
 root.configure(bg='pink')

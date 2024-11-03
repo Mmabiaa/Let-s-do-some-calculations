@@ -2,7 +2,8 @@
 
 Welcome to the Calculator App! This is a simple yet powerful calculator built with [Python / Tkinter]. Whether you need basic arithmetic or advanced calculations, this app has you covered.
 
-![Calculator Demo]() 
+![Calculator Demo](https://github.com/Mmabiaa/Let-s-do-some-calculations/blob/main/cal%20(1).png) 
+![Calculator Demo](https://github.com/Mmabiaa/Let-s-do-some-calculations/blob/main/cal%20(2).png) 
 
 ## Features
 
